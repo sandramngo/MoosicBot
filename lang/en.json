@@ -118,6 +118,7 @@
     "blacklist": "blacklist",
     "cycleguard": "cycleguard",
     "timeguard": "timeguard",
+    "cat": "\/me [@%%NAME%%] %%SRC%% [Random Cat]",
     "chatfilter": "chatfilter",
     "historyskip": "historyskip",
     "lockdown": "lockdown",
