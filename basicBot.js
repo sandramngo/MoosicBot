@@ -238,7 +238,7 @@
     var basicBot = {
         version: "2.9.1",
         status: false,
-        name: "basicBot",
+        name: "MoosicBot",
         loggedInID: null,
         scriptLink: "https://rawgit.com/sandramngo/MoosicBot/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
@@ -248,7 +248,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "basicBot",
+            botName: "MoosicBot",
             language: "english",
             chatLink: "https://rawgit.com/sandramngo/MoosicBot/master/lang/en.json",
             scriptLink: "https://rawgit.com/sandramngo/MoosicBot/master/basicBot.js",
